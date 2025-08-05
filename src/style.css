@@ -1,0 +1,21 @@
+body {
+    font-family: 'Segoe UI', 'Roboto', 'Arial', sans-serif;
+    background-color: #f4f6fb;
+    margin: 0;
+}
+
+.App {
+    box-shadow: 0 2px 12px #0001;
+    border-radius: 12px;
+    background: #fff;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    background: #e5e7eb;
+}
+::-webkit-scrollbar-thumb {
+    background: #cfd8dc;
+    border-radius: 4px;
+}
+  
